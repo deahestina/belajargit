@@ -1,0 +1,4 @@
+Belajar git
+- Pahami istilah di git
+- Implementasikan istiah di git dengan membuat mini projek
+- Waktu belajar 3 hari sampai tgl 5 Januari 2020
