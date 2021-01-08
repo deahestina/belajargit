@@ -1,0 +1,4 @@
+form register
+ - form input username, firstname, lastname
+ - tombol button submit
+ - tampilan responsif
